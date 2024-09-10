@@ -1,0 +1,10 @@
+estaladores =
+npm install expo
+npm install @react-navigation/bottom-tabs
+npx expo install react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+////////////////////////////////////////////////////////
+icons color =
+
+verde limao = #C0FF00
